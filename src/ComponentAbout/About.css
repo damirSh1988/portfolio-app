@@ -1,0 +1,49 @@
+.About{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 160px 80px;
+    gap: 300px;
+
+    width: 100%;
+    height: 640px;
+
+    background: #130125;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.AboutInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    width: 630px;
+    height: 302px;
+
+}
+
+.Title{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    width: 629px;
+    height: 194px;
+}
+
+.Frame-21{
+    box-sizing: border-box;
+
+width: 280px;
+height: 320px;
+}
+
+.avatar{
+    width: 320px;
+    height: 320px;
+}

@@ -1,0 +1,164 @@
+.Experience{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 160px 80px;
+    gap: 370px;
+
+    width: 100%;
+    height: auto;
+
+    background: #130125;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.Info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+   
+
+    width: 630px;
+    height: 598px;
+}
+
+.Title{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    width: 629px;
+    height: 72px;
+   
+    
+    
+   
+}
+
+.Text{
+    font-family: 'Courier Prime';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    color: #FFFFFF;
+    
+}
+
+.ListExperience{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 50%;
+    height: auto;
+}
+
+.ItemExperience{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+
+    width: 630px;
+    height: 100px;
+}
+
+.Year p{
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+
+}
+
+.Frame-22{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    width: 467px;
+    height: 140px;
+}
+
+.Info-1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    width: 305px;
+    height: 30px;
+}
+
+.Role{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+    gap: 12px;
+    width: 500px;
+    height: 22px;
+}
+
+.Role p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 0px;
+
+}
+
+.Pointer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 22px;
+    height: 22px;
+    background: #FD5A14;
+    border-radius: 24px;
+}
+
+.Info-2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    width: 467px;
+    height: 72px;
+}
+
+.Role-2 p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+
+    color: #FFFFFF;
+}
