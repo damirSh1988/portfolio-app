@@ -6,6 +6,7 @@ import About from './ComponentAbout/About.js';
 import Experience from './ExperienceComponent/Experience.js';
 import Projects from './ComponentProjects/Projects.js';
 import Contact from './ComponentContact/Contact.js';
+import Footer from './FooterComponent/Footer.js';
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
       <Experience/>
       <Projects/>
       <Contact/>
-      {/*<Footer/> */}
+      <Footer/> 
     </div>
   );
 }
