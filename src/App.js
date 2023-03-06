@@ -5,6 +5,7 @@ import Promo from './ComponentPromo/Promo.js';
 import About from './ComponentAbout/About.js';
 import Experience from './ExperienceComponent/Experience.js';
 import Projects from './ComponentProjects/Projects.js';
+import Contact from './ComponentContact/Contact.js';
 
 
 function App() {
@@ -15,9 +16,8 @@ function App() {
       <About/>
       <Experience/>
       <Projects/>
-       {/*
       <Contact/>
-      <Footer/> */}
+      {/*<Footer/> */}
     </div>
   );
 }

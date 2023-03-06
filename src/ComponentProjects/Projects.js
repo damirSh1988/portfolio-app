@@ -17,6 +17,14 @@ function Projects(){
             <div className="ProjectInfo">
                 <div className="InfoTitle">
                     <p>Accounting of cargo documents</p>
+                    <p style={{fontFamily: 'Kanit', 
+                               fontSize: 20, 
+                               textAlign: 'left',
+                               lineHeight: '25px' }}>For the delivery and acceptance of railway documents between customs brokers and employees of the Dostyk station</p>
+                    <p style={{fontFamily: 'Kanit', 
+                               fontSize: 20, 
+                               textAlign: 'left',
+                               lineHeight: '25px' }}>Stack used: Java/JavaFX</p>           
                 </div>
 
             </div>
