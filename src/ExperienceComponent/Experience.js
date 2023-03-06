@@ -31,6 +31,8 @@ const experience = [
 
 function Experience(){
     return(
+        <>
+        <span id="experience" style={{display: 'block', height: '60px'}}></span>
         <div className="Experience">
             <div className="Info">
                 <div className="Title">
@@ -60,6 +62,7 @@ function Experience(){
 
             </div>
         </div>
+        </>
     )
 }
 

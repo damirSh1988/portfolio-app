@@ -3,6 +3,8 @@ import './Contact.css';
 
 function Contact(){
     return(
+        <>
+        <span id="contacts" style={{display: 'block', height: '60px'}}></span>
         <div className="Contact">
             <div className="ContactFrame-5">
                 <div className="ContactTitle">
@@ -23,6 +25,7 @@ function Contact(){
                 </button>
             </div>
         </div>
+        </>
     )
 }
 

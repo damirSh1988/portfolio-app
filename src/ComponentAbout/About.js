@@ -6,6 +6,8 @@ import avatar from './aboutImage.jpg';
 
 function About(){
     return(
+        <>
+        <span id="about" style={{display: 'block', height: '60px'}}></span>
         <div className="About">
             <div className="AboutInfo">
                 <div className="Title">
@@ -22,6 +24,7 @@ function About(){
             </div>
 
         </div>
+        </>
     )
 }
 

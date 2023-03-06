@@ -9,10 +9,10 @@ function Header(){
                 <p style={{color: "white", fontSize: 25, fontFamily: 'Courier Prime'}}>Damir Shayakhmet</p>
             </div>
             <div className="Menu">
-                <button>About</button>
-                <button>Experience</button>
-                <button>Projects</button>
-                <button>Contacts</button>
+                <a href="#about">About</a>
+                <a href="#experience">Experience</a>
+                <a href="#projects">Projects</a>
+                <a href="#contacts">Contacts</a>
 
             </div>
     

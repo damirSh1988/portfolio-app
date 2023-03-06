@@ -1,7 +1,21 @@
-button {
+a {
     border: none;
     background-color:#130125;
     color: white;
     font-size: 20px;
+    text-decoration: none;
     
+}
+
+button{
+    border: none;
+    background-color:#130125;
+    color: white;
+    font-size: 20px;
+}
+
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
 }

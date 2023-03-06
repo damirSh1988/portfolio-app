@@ -6,6 +6,8 @@ import appImage2 from './appImage2.jpg';
 function Projects(){
     return(
         <>
+         
+        <span id="projects" style={{display: 'block', height: '60px'}}></span>
         <div className="Projects">
             <div className="TitleProject">
                 <p>Projects I’ve Worked On</p>
